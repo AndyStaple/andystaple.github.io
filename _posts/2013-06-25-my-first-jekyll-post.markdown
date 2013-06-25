@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My first Jekyll Post"
-date:   2013-06-25 18:49:12
-categories: jekyll update
+title: "My first Jekyll Post"
+date: 2013-06-25 18:49:12
+categories: one two
 ---
 
 ## My first post
